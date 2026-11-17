@@ -3,6 +3,12 @@
 Bare-metal orientation demo for the **32F411E-DISCO MB1115D**. The board
 streams sensor angles over USB and the laptop displays them on an OpenGL cube.
 
+## Demo
+
+<video src="./3d-Cube.mp4" controls muted loop width="700"></video>
+
+[Watch or download the demo video](3d-Cube.mp4)
+
 ## Hardware
 
 Connect both USB cables:
