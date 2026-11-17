@@ -1,0 +1,16 @@
+# Firmware build output
+/build/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Local test output
+*.log
