@@ -5,9 +5,9 @@ streams sensor angles over USB and the laptop displays them on an OpenGL cube.
 
 ## Demo
 
-<video src="./3d-Cube.mp4" controls muted loop width="700"></video>
+![Gyro cube demo](3d-Cube.gif)
 
-[Watch or download the demo video](3d-Cube.mp4)
+[Watch or download the full video](3d-Cube.mp4)
 
 ## Hardware
 
